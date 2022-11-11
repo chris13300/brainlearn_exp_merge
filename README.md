@@ -1,5 +1,5 @@
 # brainlearn_exp_merge
-Tool to help merging "brainlearn-like" experience.bin file
+Tool to help merging "brainlearn-like" experience.bin files
 
 # most common scenario
 A folder containing the BrainLearn engine and its main experience.bin file.<br>
