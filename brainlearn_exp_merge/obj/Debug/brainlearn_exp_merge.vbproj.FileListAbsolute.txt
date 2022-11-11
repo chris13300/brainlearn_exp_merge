@@ -1,0 +1,10 @@
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\bin\Debug\brainlearn_exp_merge.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\bin\Debug\brainlearn_exp_merge.exe
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\bin\Debug\brainlearn_exp_merge.pdb
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\bin\Debug\brainlearn_exp_merge.xml
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\obj\Debug\brainlearn_exp_merge.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\obj\Debug\brainlearn_exp_merge.vbproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\obj\Debug\brainlearn_exp_merge.exe
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\obj\Debug\brainlearn_exp_merge.xml
+c:\users\chris\documents\visual studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\obj\Debug\brainlearn_exp_merge.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_exp_merge\brainlearn_exp_merge\obj\Debug\brainlearn_exp_merge.vbprojResolveAssemblyReference.cache
