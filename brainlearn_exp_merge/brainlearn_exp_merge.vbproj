@@ -68,9 +68,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\moduleExperience %28console%29.vb">
-      <Link>moduleExperience %28console%29.vb</Link>
-    </Compile>
     <Compile Include="modMain.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
