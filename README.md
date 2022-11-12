@@ -10,6 +10,6 @@ copy "E:\brainlearn0\experience.bin" experience_0.bin<br>
 copy "E:\brainlearn1\experience.bin" experience_1.bin<br>
 copy "E:\brainlearn2\experience.bin" experience_2.bin<br>
 copy "E:\brainlearn3\experience.bin" experience_3.bin<br>
-E:\brainlearn\brainlearn_exp_merge.exe<br>
-E:\brainlearn\brainLearn.exe uci isready quit<br>
-E:\brainlearn\brainlearn_exp_merge.exe defrag<br>
+brainlearn_exp_merge.exe<br>
+brainLearn.exe uci isready quit<br>
+brainlearn_exp_merge.exe defrag<br>
